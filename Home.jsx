@@ -14,7 +14,7 @@ import { toast } from 'react-toastify';
 
 const Home = () => {
 
-  // ✅ Fixed typos in options
+  
   const options = [
     { value: 'html-css', label: 'HTML + CSS' },
     { value: 'html-tailwind', label: 'HTML + Tailwind CSS' },
@@ -274,3 +274,4 @@ Requirements:
 }
 
 export default Home
+
